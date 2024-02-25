@@ -1,11 +1,9 @@
 #!/bin/bash
 
 ############################################
-
 FILE=$1
-
 ############################################
-#script_part12_simpleNorm_runHiC_with_HOMER.sh
+# script_part12_simpleNorm_runHiC_with_HOMER.sh
 
 module load homer/4.9
 module load bowtie2/2.3.4.3
